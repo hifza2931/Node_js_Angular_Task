@@ -1,0 +1,78 @@
+[
+    {
+      "user_id": 12345,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@example.com",
+      "age": 30,
+      "is_active": true,
+      "address": {
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "state": "CA",
+        "postal_code": "12345"
+      },
+      "hobbies": ["Reading", "Hiking", "Cooking"],
+      "social_profiles": {
+        "twitter": "johndoe_twitter",
+        "linkedin": "johndoe_linkedin"
+      }
+    },
+    {
+      "user_id": 54321,
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "email": "alicesmith@example.com",
+      "age": 28,
+      "is_active": true,
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Another City",
+        "state": "NY",
+        "postal_code": "54321"
+      },
+      "hobbies": ["Painting", "Swimming", "Traveling"],
+      "social_profiles": {
+        "twitter": "alicesmith_twitter",
+        "linkedin": "alicesmith_linkedin"
+      }
+    },
+    {
+      "user_id": 98765,
+      "first_name": "David",
+      "last_name": "Brown",
+      "email": "davidbrown@example.com",
+      "age": 35,
+      "is_active": false,
+      "address": {
+        "street": "789 Elm Street",
+        "city": "Somewhere",
+        "state": "TX",
+        "postal_code": "98765"
+      },
+      "hobbies": ["Gardening", "Photography"],
+      "social_profiles": {
+        "twitter": "davidbrown_twitter",
+        "linkedin": "davidbrown_linkedin"
+      }
+    },
+    {
+      "user_id": 56789,
+      "first_name": "Emily",
+      "last_name": "Johnson",
+      "email": "emilyjohnson@example.com",
+      "age": 25,
+      "is_active": true,
+      "address": {
+        "street": "567 Pine Lane",
+        "city": "Another Town",
+        "state": "FL",
+        "postal_code": "56789"
+      },
+      "hobbies": ["Singing", "Dancing", "Cooking"],
+      "social_profiles": {
+        "twitter": "emilyjohnson_twitter",
+        "linkedin": "emilyjohnson_linkedin"
+      }
+    }
+ ]
